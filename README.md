@@ -1,5 +1,7 @@
-# Bored.io
+<img src="./src/assets/logo.svg" alt="Bored.io"></img>
 
-This simple webiste uses the Bored API to show random ideas of what to do when bored.
+
+Bored.io uses the Bored API to show random ideas of what to do when bored.
 
 This project was created with ReactJS.
+
