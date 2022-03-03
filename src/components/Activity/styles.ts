@@ -13,6 +13,7 @@ export const Container = styled.div`
 
 export const Content = styled.div`
 display: flex;
+width: clamp(16rem, 26vw, 30.9rem);
 align-items: center;
 justify-content: center;
 flex-direction: column;
@@ -22,6 +23,7 @@ flex-direction: column;
         font-size: 2rem;
         line-height: 40px;
       }
+
 
     h4 {
       color: var(--text);
