@@ -9,8 +9,4 @@ export function Main() {
     </S.Container>
     
   )
-
-  // Selecionar por tipo
-  // Selecionar por numero de participantes
-  // Adicionar imagens e corrigir useEffect type
 }
