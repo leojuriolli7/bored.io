@@ -5,7 +5,7 @@ export function Header() {
   return (
     <S.Container>
       <S.Content>
-        <img src={imgLogo} alt="bored.io" onClick={() => window.open("https://www.boredapi.com")} title="Go to BoredApi"/>
+        <img src={imgLogo} alt="bored.io" onClick={() => window.open("https://www.boredapi.com")} title="Go to Bored API"/>
       </S.Content>
     </S.Container>
   )
