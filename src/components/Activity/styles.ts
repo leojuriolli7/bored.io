@@ -47,9 +47,10 @@ export const Description = styled.div`
 
 export const Button = styled.button`
   margin-top: 3rem;
-  padding: 1.2rem 2.4rem;
+  padding: 1.1rem 2.3rem;
   background-color: var(--green);
   border: 0;
+  font-size: 20px;
   border-radius: 10px;
   transition: filter 0.15s;
   transition: transform 0.3s;
