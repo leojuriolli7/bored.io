@@ -47,7 +47,7 @@ export const Description = styled.div`
 
 export const Button = styled.button`
   margin-top: 3rem;
-  padding: 1.1rem 2.3rem;
+  padding: 1.1rem 2.1rem;
   background-color: var(--green);
   border: 0;
   font-size: 20px;
