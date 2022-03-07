@@ -6,10 +6,10 @@ export const Container = styled.main`
   justify-content: center;
   flex-direction: column;
   margin-top: 2rem;
+`;
 
-  h2 {
-    color: var(--text-title);
-    font-weight: 500;
-    font-size: 2.3rem;
-  }
-`
+export const TitleText = styled.h2`
+  color: var(--text-title);
+  font-weight: 500;
+  font-size: 2.3rem;
+`;

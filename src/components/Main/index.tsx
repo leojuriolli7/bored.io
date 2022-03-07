@@ -1,12 +1,11 @@
-import { Activity } from '../Activity'
-import * as S from './styles'
+import { Activity } from "../Activity";
+import * as S from "./styles";
 
 export function Main() {
-  return(
+  return (
     <S.Container>
-      <h2>How about you...</h2>
+      <S.TitleText>How about you...</S.TitleText>
       <Activity />
     </S.Container>
-    
-  )
+  );
 }
